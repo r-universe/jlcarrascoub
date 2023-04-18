@@ -13,3 +13,8 @@
 	url = https://github.com/cran/iccCounts
 	shallow = true
 	registered = true
+[submodule "iccTraj"]
+	path = iccTraj
+	url = https://github.com/cran/iccTraj
+	shallow = true
+	registered = true
