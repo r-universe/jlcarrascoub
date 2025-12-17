@@ -5,6 +5,9 @@
 [submodule "cccrm"]
 	path = cccrm
 	url = https://github.com/cran/cccrm
+[submodule "iccCompare"]
+	path = iccCompare
+	url = https://github.com/cran/iccCompare
 [submodule "iccCounts"]
 	path = iccCounts
 	url = https://github.com/cran/iccCounts
